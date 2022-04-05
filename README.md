@@ -1,4 +1,4 @@
-# Hotel
+# Corporate-Template
 
 <div id="top"></div>
 
@@ -6,7 +6,8 @@
 
 ## About The Project
 
-![Everthing Tech](https://user-images.githubusercontent.com/42435299/161439443-385fe3fc-3b9e-4dbd-a38d-30f144939923.png)
+![Corporate-Template](https://user-images.githubusercontent.com/42435299/161782115-e175d434-002f-4758-9ddb-e49c123eca97.png)
+
 
 ### Built With
 
@@ -15,7 +16,6 @@
 - [JavaScript](https://google.com/)
 
 ### Demo:
-
-[EverythingTech](https://gcodiac.github.io/hotel/)
+* [Corporate-Template](https://gcodiac.github.io/Corporate-Html/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
